@@ -1,7 +1,7 @@
 //JS file
 
 function ConsoleHello() {
-	console.log("Hello, World!");
+	console.log("Hello World!");
 }
 
 function PopUpHello() {
